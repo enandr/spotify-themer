@@ -1,0 +1,18 @@
+{
+  "name": "spotify-themer",
+  "version": "1.0.0",
+  "description": "cli gui to change theme for spicetify",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "spotify-themer": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
