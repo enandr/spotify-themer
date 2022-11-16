@@ -28,7 +28,7 @@ cd /Users/[your name]/.config/spicetify/Themes
 ```
 #### Clone the themes repo
 ```
-git@github.com:spicetify/spicetify-themes.git
+git clone git@github.com:spicetify/spicetify-themes.git
 ```
 #### Copy themes
 Copy all the themes into
@@ -38,10 +38,10 @@ Copy all the themes into
 ## spotify-themer Installation
 
 ### Install spotify-themer on MAC or LINUX
-#### Clone spotif-themer
+#### Clone spotify-themer
 
 ```
-CLONE THE REPO LINK HERE
+git clone git@github.com:enandr/spotify-themer.git
 ```
 Open the cloned repo in the terminal
 #### install spotify-themer globally
