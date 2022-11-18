@@ -43,12 +43,19 @@ Copy all the themes into
 ```
 git clone git@github.com:enandr/spotify-themer.git
 ```
-Open the cloned repo in the terminal
+#### open the spotify-themer folder
+```
+cd spotify-themer
+```
+#### install npm packages
+```
+npm install
+```
 #### install spotify-themer globally
 ```
 npm -g ./
 ```
-#### run
+#### run the cli
 ```
 spotify-themer
 ```
